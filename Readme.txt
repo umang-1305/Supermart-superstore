@@ -1,8 +1,13 @@
 Super Store Management System 
+An end-to-end database application for managing the sales and inventory of superstores using MYSQL, PHP, HTML, CSS, Bootstrap 
+
+● The applications allow supermarkets to track their item wise daily sales along with inventory 
+
+● An admin panel to track the sales, inventory, and orders to distributors from one central location
 
 Project By : 
 Umang :-209302383
-Mahi Jain :-209302039
+
 
 :-  The default password for each login has been set to admin 
 ____________________________
