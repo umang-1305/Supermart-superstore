@@ -1,0 +1,48 @@
+Super Store Management System 
+
+Project By : 
+Umang :-209302383
+Mahi Jain :-209302039
+
+:-  The default password for each login has been set to admin 
+____________________________
+Admin Login
+Admin id :555
+Admin Pass :admin
+____________________________
+
+Distributor Login 
+Distributor Id : 1000
+Distributor Pass : admin
+
+Distributor Id : 1001
+Distributor Pass : admin
+
+Distributor Id : 1002
+Distributor Pass : admin
+
+Distributor Id : 1003
+Distributor Pass : admin
+
+Distributor Id : 1004
+Distributor Pass : admin
+
+Distributor Id : 1005
+Distributor Pass : admin
+____________________________
+
+Store Id :101
+Store Pass :admin
+
+Store Id :102
+Store Pass :admin
+
+Store Id :103
+Store Pass :admin
+
+Store Id :104
+Store Pass :admin
+
+Store Id :105
+Store Pass :admin
+_______________________
