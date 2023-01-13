@@ -1,5 +1,5 @@
 Super Store Management System 
-An end-to-end database application for managing the sales and inventory of superstores using MYSQL, PHP, HTML, CSS, Bootstrap 
+An end-to-end database application for managing the sales and inventory of superstores using MYSQL, PHP & CSS 
 
 ● The applications allow supermarkets to track their item wise daily sales along with inventory 
 
